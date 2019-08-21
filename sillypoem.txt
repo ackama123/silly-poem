@@ -3,5 +3,8 @@ perople
 pink
 blue 
 red 
-ble
+blue
+violet
+orange
+
 why is this silly ?
